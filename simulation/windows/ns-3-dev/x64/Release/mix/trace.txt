@@ -1,0 +1,5 @@
+2
+1 2
+
+First line: tracing node #
+Node IDs...

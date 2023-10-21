@@ -1,0 +1,6 @@
+0
+15 9 3 2 2.0109 2.0121 0.00001 0.00001
+
+
+First line: pulse #
+src dst priority packet# start_time stop_time pulse_duration pulse_interval
